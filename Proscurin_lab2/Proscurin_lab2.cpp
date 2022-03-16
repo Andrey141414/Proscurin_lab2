@@ -5,7 +5,7 @@
 #include <math.h>
 #include <ctime>
 #define N 3
-#define Eps 0.01
+#define Eps 0.000001
 #define inputFile "input.txt"
 #define OutputFile "Output.txt"
 using namespace std;
